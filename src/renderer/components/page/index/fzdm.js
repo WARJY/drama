@@ -1,0 +1,436 @@
+export default [{
+  href: 'https://manhua.fzdm.com/2/',
+  title: '海贼王',
+}, {
+  href: 'https://manhua.fzdm.com/7/',
+  title: '死神',
+}, {
+  href: 'https://manhua.fzdm.com/10/',
+  title: '猎人',
+}, {
+  href: 'https://manhua.fzdm.com/1/',
+  title: '火影忍者',
+}, {
+  href: 'https://manhua.fzdm.com/22/',
+  title: '银魂',
+}, {
+  href: 'https://manhua.fzdm.com/25/',
+  title: '大剑',
+}, {
+  href: 'https://manhua.fzdm.com/27/',
+  title: '妖精的尾巴',
+}, {
+  href: 'https://manhua.fzdm.com/29/',
+  title: '旋风管家',
+}, {
+  href: 'https://manhua.fzdm.com/144/',
+  title: '虫姬',
+}, {
+  href: 'https://manhua.fzdm.com/143/',
+  title: '干物妹小埋',
+}, {
+  href: 'https://manhua.fzdm.com/142/',
+  title: '名侦探柯南',
+}, {
+  href: 'https://manhua.fzdm.com/3/',
+  title: '通灵王',
+}, {
+  href: 'https://manhua.fzdm.com/4/',
+  title: '网球王子',
+}, {
+  href: 'https://manhua.fzdm.com/5/',
+  title: '草莓100%',
+}, {
+  href: 'https://manhua.fzdm.com/6/',
+  title: '飞轮少年',
+}, {
+  href: 'https://manhua.fzdm.com/8/',
+  title: '光速蒙面侠21',
+}, {
+  href: 'https://manhua.fzdm.com/9/',
+  title: '犬夜叉',
+}, {
+  href: 'https://manhua.fzdm.com/12/',
+  title: '高达',
+}, {
+  href: 'https://manhua.fzdm.com/13/',
+  title: '鬼眼狂刀',
+}, {
+  href: 'https://manhua.fzdm.com/14/',
+  title: '黑猫',
+}, {
+  href: 'https://manhua.fzdm.com/15/',
+  title: '天上天下',
+}, {
+  href: 'https://manhua.fzdm.com/16/',
+  title: '美鸟日记',
+}, {
+  href: 'https://manhua.fzdm.com/17/',
+  title: '钢之炼金术士',
+}, {
+  href: 'https://manhua.fzdm.com/18/',
+  title: '闪灵二人组',
+}, {
+  href: 'https://manhua.fzdm.com/19/',
+  title: 'NANA',
+}, {
+  href: 'https://manhua.fzdm.com/20/',
+  title: '凉风',
+}, {
+  href: 'https://manhua.fzdm.com/21/',
+  title: '杀戮都市',
+}, {
+  href: 'https://manhua.fzdm.com/23/',
+  title: '蓝龙',
+}, {
+  href: 'https://manhua.fzdm.com/24/',
+  title: 'D格雷少年',
+}, {
+  href: 'https://manhua.fzdm.com/26/',
+  title: '魔X爱',
+}, {
+  href: 'https://manhua.fzdm.com/28/',
+  title: '未来日记',
+}, {
+  href: 'https://manhua.fzdm.com/30/',
+  title: '强殖装甲',
+}, {
+  href: 'https://manhua.fzdm.com/31/',
+  title: '月咏',
+}, {
+  href: 'https://manhua.fzdm.com/32/',
+  title: 'ZETMAN',
+}, {
+  href: 'https://manhua.fzdm.com/33/',
+  title: '源君物语',
+}, {
+  href: 'https://manhua.fzdm.com/34/',
+  title: '龙的争乱',
+}, {
+  href: 'https://manhua.fzdm.com/35/',
+  title: '家庭教师',
+}, {
+  href: 'https://manhua.fzdm.com/36/',
+  title: '召唤恶魔',
+}, {
+  href: 'https://manhua.fzdm.com/37/',
+  title: 'SketDance',
+}, {
+  href: 'https://manhua.fzdm.com/38/',
+  title: '漫画家与助手们',
+}, {
+  href: 'https://manhua.fzdm.com/39/',
+  title: '进击的巨人',
+}, {
+  href: 'https://manhua.fzdm.com/40/',
+  title: '惊爆游戏',
+}, {
+  href: 'https://manhua.fzdm.com/41/',
+  title: '亚人',
+}, {
+  href: 'https://manhua.fzdm.com/42/',
+  title: '伪恋',
+}, {
+  href: 'https://manhua.fzdm.com/43/',
+  title: 'BLOOD LAD',
+}, {
+  href: 'https://manhua.fzdm.com/44/',
+  title: '自杀岛',
+}, {
+  href: 'https://manhua.fzdm.com/45/',
+  title: '恶魔奶爸',
+}, {
+  href: 'https://manhua.fzdm.com/46/',
+  title: '恶灵猎人',
+}, {
+  href: 'https://manhua.fzdm.com/47/',
+  title: '火星异种',
+}, {
+  href: 'https://manhua.fzdm.com/48/',
+  title: '吞噬人间',
+}, {
+  href: 'https://manhua.fzdm.com/49/',
+  title: '灵能百分百',
+}, {
+  href: 'https://manhua.fzdm.com/50/',
+  title: '排球',
+}, {
+  href: 'https://manhua.fzdm.com/51/',
+  title: '史上最强弟子兼一',
+}, {
+  href: 'https://manhua.fzdm.com/52/',
+  title: '滑头鬼之孙',
+}, {
+  href: 'https://manhua.fzdm.com/53/',
+  title: '黑子的篮球',
+}, {
+  href: 'https://manhua.fzdm.com/54/',
+  title: '好想告诉你',
+}, {
+  href: 'https://manhua.fzdm.com/55/',
+  title: 'Skip Beat',
+}, {
+  href: 'https://manhua.fzdm.com/56/',
+  title: '七原罪',
+}, {
+  href: 'https://manhua.fzdm.com/57/',
+  title: '有你的小镇',
+}, {
+  href: 'https://manhua.fzdm.com/58/',
+  title: '食戟之灵',
+}, {
+  href: 'https://manhua.fzdm.com/59/',
+  title: '革神语',
+}, {
+  href: 'https://manhua.fzdm.com/60/',
+  title: '爱丽丝学园',
+}, {
+  href: 'https://manhua.fzdm.com/62/',
+  title: '恶之华',
+}, {
+  href: 'https://manhua.fzdm.com/63/',
+  title: '恋姐倾心',
+}, {
+  href: 'https://manhua.fzdm.com/65/',
+  title: '元气少女缘结神',
+}, {
+  href: 'https://manhua.fzdm.com/66/',
+  title: '电波教师',
+}, {
+  href: 'https://manhua.fzdm.com/67/',
+  title: '默示录之城',
+}, {
+  href: 'https://manhua.fzdm.com/68/',
+  title: '我被睡成了妹',
+}, {
+  href: 'https://manhua.fzdm.com/69/',
+  title: '天降之物',
+}, {
+  href: 'https://manhua.fzdm.com/70/',
+  title: '螺旋卷鈎生',
+}, {
+  href: 'https://manhua.fzdm.com/71/',
+  title: '杀戮箴言',
+}, {
+  href: 'https://manhua.fzdm.com/73/',
+  title: '白银之匙',
+}, {
+  href: 'https://manhua.fzdm.com/74/',
+  title: '王者天下',
+}, {
+  href: 'https://manhua.fzdm.com/75/',
+  title: '极黑的布伦希尔特',
+}, {
+  href: 'https://manhua.fzdm.com/77/',
+  title: '姐姐的妄想日记',
+}, {
+  href: 'https://manhua.fzdm.com/79/',
+  title: '零度战姬',
+}, {
+  href: 'https://manhua.fzdm.com/80/',
+  title: '死神大人和4位女友',
+}, {
+  href: 'https://manhua.fzdm.com/81/',
+  title: '飙速宅男',
+}, {
+  href: 'https://manhua.fzdm.com/82/',
+  title: '特极囚犯',
+}, {
+  href: 'https://manhua.fzdm.com/83/',
+  title: '我妻同学是我的老婆',
+}, {
+  href: 'https://manhua.fzdm.com/84/',
+  title: '野良神',
+}, {
+  href: 'https://manhua.fzdm.com/85/',
+  title: 'All You Need Is Kill',
+}, {
+  href: 'https://manhua.fzdm.com/96/',
+  title: 'WXY',
+}, {
+  href: 'https://manhua.fzdm.com/97/',
+  title: '超推脑KEI',
+}, {
+  href: 'https://manhua.fzdm.com/98/',
+  title: '天才麻将少女',
+}, {
+  href: 'https://manhua.fzdm.com/99/',
+  title: '网球优等生',
+}, {
+  href: 'https://manhua.fzdm.com/100/',
+  title: 'Arachnid',
+}, {
+  href: 'https://manhua.fzdm.com/101/',
+  title: '非法稀有种',
+}, {
+  href: 'https://manhua.fzdm.com/102/',
+  title: '灌篮高手',
+}, {
+  href: 'https://manhua.fzdm.com/103/',
+  title: '钻石王牌',
+}, {
+  href: 'https://manhua.fzdm.com/104/',
+  title: '第一神拳',
+}, {
+  href: 'https://manhua.fzdm.com/107/',
+  title: '变成那个她',
+}, {
+  href: 'https://manhua.fzdm.com/108/',
+  title: '龙狼传',
+}, {
+  href: 'https://manhua.fzdm.com/109/',
+  title: '东京乌鸦',
+}, {
+  href: 'https://manhua.fzdm.com/110/',
+  title: '龙珠AF',
+}, {
+  href: 'https://manhua.fzdm.com/112/',
+  title: '风夏',
+}, {
+  href: 'https://manhua.fzdm.com/118/',
+  title: '禁忌咒纹',
+}, {
+  href: 'https://manhua.fzdm.com/119/',
+  title: '辛巴达的冒险',
+}, {
+  href: 'https://manhua.fzdm.com/120/',
+  title: '洞穴偷窥杀人事件',
+}, {
+  href: 'https://manhua.fzdm.com/121/',
+  title: 'GrandBlue',
+}, {
+  href: 'https://manhua.fzdm.com/122/',
+  title: 'ISUCA',
+}, {
+  href: 'https://manhua.fzdm.com/123/',
+  title: 'World Trigger',
+}, {
+  href: 'https://manhua.fzdm.com/124/',
+  title: 'GTO失乐园',
+}, {
+  href: 'https://manhua.fzdm.com/125/',
+  title: '狼少女与黑王子',
+}, {
+  href: 'https://manhua.fzdm.com/126/',
+  title: '漫画家日记',
+}, {
+  href: 'https://manhua.fzdm.com/127/',
+  title: '诚如神之所说',
+}, {
+  href: 'https://manhua.fzdm.com/128/',
+  title: 'KissXDeath',
+}, {
+  href: 'https://manhua.fzdm.com/129/',
+  title: '政宗君的复仇',
+}, {
+  href: 'https://manhua.fzdm.com/131/',
+  title: '我的英雄学院',
+}, {
+  href: 'https://manhua.fzdm.com/132/',
+  title: '一拳超人',
+}, {
+  href: 'https://manhua.fzdm.com/133/',
+  title: '斩赤红之瞳',
+}, {
+  href: 'https://manhua.fzdm.com/134/',
+  title: '贫乏神来了',
+}, {
+  href: 'https://manhua.fzdm.com/135/',
+  title: 'AKB49',
+}, {
+  href: 'https://manhua.fzdm.com/136/',
+  title: '黑执事',
+}, {
+  href: 'https://manhua.fzdm.com/137/',
+  title: '空之境界',
+}, {
+  href: 'https://manhua.fzdm.com/138/',
+  title: '春秋战雄',
+}, {
+  href: 'https://manhua.fzdm.com/139/',
+  title: '独领风骚',
+}, {
+  href: 'https://manhua.fzdm.com/140/',
+  title: '火凤燎原',
+}, {
+  href: 'https://manhua.fzdm.com/141/',
+  title: '暗杀教室',
+}, {
+  href: 'https://manhua.fzdm.com/145/',
+  title: '学园孤岛',
+}, {
+  href: 'https://manhua.fzdm.com/146/',
+  title: '龙珠超',
+}, {
+  href: 'https://manhua.fzdm.com/11/',
+  title: '死亡笔记',
+}, {
+  href: 'https://manhua.fzdm.com/78/',
+  title: '最强会长黑神',
+}, {
+  href: 'https://manhua.fzdm.com/86/',
+  title: '吸血鬼骑士',
+}, {
+  href: 'https://manhua.fzdm.com/87/',
+  title: '会长是女仆',
+}, {
+  href: 'https://manhua.fzdm.com/88/',
+  title: '噬魂师',
+}, {
+  href: 'https://manhua.fzdm.com/89/',
+  title: '虫奉行',
+}, {
+  href: 'https://manhua.fzdm.com/90/',
+  title: '我间乱',
+}, {
+  href: 'https://manhua.fzdm.com/91/',
+  title: '美食的俘虏',
+}, {
+  href: 'https://manhua.fzdm.com/92/',
+  title: '只有神知道的世界',
+}, {
+  href: 'https://manhua.fzdm.com/93/',
+  title: '新网球王子',
+}, {
+  href: 'https://manhua.fzdm.com/94/',
+  title: '逃离伊甸园',
+}, {
+  href: 'https://manhua.fzdm.com/95/',
+  title: '境界的轮回',
+}, {
+  href: 'https://manhua.fzdm.com/113/',
+  title: '山田君与7位魔女',
+}, {
+  href: 'https://manhua.fzdm.com/114/',
+  title: '黑铁',
+}, {
+  href: 'https://manhua.fzdm.com/115/',
+  title: '魔笛MAGI',
+}, {
+  href: 'https://manhua.fzdm.com/116/',
+  title: 'Code Breaker',
+}, {
+  href: 'https://manhua.fzdm.com/117/',
+  title: '東京食屍鬼',
+}, {
+  href: 'https://manhua.fzdm.com/130/',
+  title: 'Big Order',
+}, {
+  href: 'https://manhua.fzdm.com/147/',
+  title: '魔法禁书目录',
+}, {
+  href: 'https://manhua.fzdm.com/148/',
+  title: '妄想学生会',
+}, {
+  href: 'https://manhua.fzdm.com/149/',
+  title: '堀与宫村',
+}, {
+  href: 'https://manhua.fzdm.com/150/',
+  title: '拳愿阿修罗',
+}, {
+  href: 'https://manhua.fzdm.com/151/',
+  title: '七人魔法使',
+}, {
+  href: 'https://manhua.fzdm.com/152/',
+  title: '浪客剑心',
+}];
